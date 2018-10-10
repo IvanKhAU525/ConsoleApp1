@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             //    comment 1 by new_br_2
+            //    comment 2 by new_br_2
             //    comment 1 by master
             //    comment 2 by master
         }
