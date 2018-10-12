@@ -12,6 +12,7 @@ namespace ConsoleApp1
             //    comment 1 by master
             
             //    comment 1 for PR
+            //    comment 2 for PR
         }
     }
 }
