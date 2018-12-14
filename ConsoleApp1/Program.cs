@@ -21,6 +21,7 @@ namespace ConsoleApp1
             //    i wanna do pull request
 
             //     comment by MASTER_1
+            //     comment by MASTER_2
         }
     }
 }
